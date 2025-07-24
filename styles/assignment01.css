@@ -27,7 +27,19 @@ font-size: 34px;}
 /* banner section  */
 .banner{text-align: center;
 justify-content: center;
-margin: 158px 267.5px 237px;}
+margin: 158px 267px 237px;}
 .bannerhead{font-size: 65px;
 font-weight: bold;}
+.bgimg{background-image: url(/images/Hero-bg.png);}
+/* action section  */
+.action{display: flex;
+text-align: center;
+justify-content: space-between;
+margin: 116px 160px 140px ;}
+.actionhead{font-size: 42px;
+font-weight: bold;}
+.actioncontent{font-size: 24px;
+color: #25243281;}
+.actionimg{border-radius: 48px;}
+
 
