@@ -77,3 +77,53 @@ gap: 20px ;}
 border-radius: 14px ;}
 .iconflex{display: flex;
 align-items: center;}
+/* focus section  */
+.focus{text-align: center;}
+.focushead{font-size: 50px;
+font-weight: bold;}
+.focustxt{color: #0000007c;}
+.focusbtn{background-color: #4E47FF;
+    color: white;
+    font-size: 16px;
+    font-weight: 300;
+    border: none;
+    padding: 12px 36px;
+    border-radius: 10px;
+}
+.focusimg{border-radius: 48px;}
+/* touch section  */
+.touch{display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 92px 150px 14px;}
+.touchhead{font-size: 97px;
+font-weight: bold;}
+.touchcontent{display: flex;
+flex-direction: column;}
+.touchbtn{font-size: 16px;
+font-weight: bold;
+background-color: #4E47FF;
+color: white;
+padding: 19px 201px;
+border: none;
+border-radius: 10px;}
+.touchtxt{font-size: 18px;
+font-weight: bolder;}
+.touchph1{font-size: 20px;
+color: #0000007c;
+border-radius: 10px ;
+border: none;
+border: 1px solid #D6DDED ;
+padding: 20px 271px 20px 32px;}
+.touchph2{font-size: 20px;
+color: #0000007c;
+border-radius: 10px ;
+border: none;
+border: 1px solid #D6DDED ;
+padding: 20px 389px 20px 32px;}
+.touchph3{font-size: 20px;
+color: #0000007c;
+border-radius: 10px ;
+border: none;
+border: 1px solid #D6DDED ;
+padding: 20px 257px 85px 32px;}
