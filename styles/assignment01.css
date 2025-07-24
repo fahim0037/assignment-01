@@ -128,3 +128,15 @@ border: none;
 border: 1px solid #D6DDED ;
 padding: 20px 257px 85px 32px;}
 /* footer section  */
+footer{text-align: center;
+justify-content: center;
+margin: 104px 455px 147px ;}
+footer a {text-decoration: none;}
+footer ul {list-style-type: none;
+display: flex;
+justify-content: center;
+align-items:center ;
+gap: 48px;}
+.logoicon{font-size: 100;
+color: #4E47FF;}
+.footertxt{color: #8987A1;}
