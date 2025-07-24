@@ -33,7 +33,7 @@ align-items: center;
 margin: 158px 267px 237px;}
 .bannerhead{font-size: 65px;
 font-weight: bold;}
-.bgimg{background-image: url(./images/Hero-bg.png);}
+.bgimg{background-image: url(../images/Hero-bg.png);}
 /* action section  */
 .action{display: flex;
 align-items: center;
