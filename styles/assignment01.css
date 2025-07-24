@@ -10,14 +10,6 @@
   font-style: normal;
 }
 /* common section  */
-
-/* nav section  */
-.navbar{display: flex;
-justify-content: space-between;
-text-align: center;
-margin: 50px 150px 0px;}
-.logo{color: #4E47FF;
-font-size: 34px;}
 .bluebtn{color: white;
     background-color: #4E47FF;
     font-weight: bold;
@@ -25,6 +17,17 @@ font-size: 34px;}
     padding: 12px 36px;
     border-radius: 10px;
     border: none;}
+/* nav section  */
+.navbar{display: flex;
+justify-content: space-between;
+text-align: center;
+margin: 50px 150px 0px;}
+.logo{color: #4E47FF;
+font-size: 34px;}
 /* banner section  */
-
+.banner{text-align: center;
+justify-content: center;
+margin: 158px 267.5px 237px;}
+.bannerhead{font-size: 65px;
+font-weight: bold;}
 
